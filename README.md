@@ -1,6 +1,6 @@
 
 
- # iNeuron Full Stack Data Science: <img src= "https://i.imgur.com/IKaZQt3.jpg" width = "50" height = "20">
+ # iNeuron Full Stack Data Science: <img src= "https://i.imgur.com/IKaZQt3.jpg" width = "60" height = "30">
 ### Assignments Submitted
 
 ### 1. Python Assignments
