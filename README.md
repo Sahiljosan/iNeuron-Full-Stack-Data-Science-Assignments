@@ -1,4 +1,4 @@
-<img src= "https://i.imgur.com/IKaZQt3.jpg" width = "300" height = "300">
+<img src= "https://i.imgur.com/IKaZQt3.jpg" width = "200" height = "100">
 # iNeuron Full Stack Data Science: 
 ### Assignments Submitted
 
