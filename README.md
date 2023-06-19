@@ -1,28 +1,31 @@
-# iNeuron Full Stack Data Science:
+
+
+ # iNeuron Full Stack Data Science: <img src= "https://i.imgur.com/IKaZQt3.jpg" width = "50" height = "25">
+### Assignments Submitted
 
 ### 1. Python Assignments
-- [Python Basic ***(25/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Basic%20Assignment)
-- [Python Programming Basic ***(25/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Programming%20Basic%20Assignment)
-- [Python Advance ***(25/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Advance%20Assignment)
-- [Python Advance Programming ***(25/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Python/Python%20Advance%20Programming%20Assignment)
+- [Python Basic ***(25/25)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Python/Python%20Basic%20Assignment)
+- [Python Programming Basic ***(25/25)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Python/Python%20Programming%20Basic%20Assignment)
+- [Python Advance ***(25/25)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Python/Python%20Advance%20Assignment)
+- [Python Advance Programming ***(25/25)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Python/Python%20Advance%20Programming%20Assignment)
 
 
 ### 2. Business Analytics Assignments
-- [Excel ***(08/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Excel)
-- [SQL ***(10/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/SQL)
-- [Statistics ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Statistics)
-- [PowerBI ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Power%20BI)
-- [PowerBI Projects ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Power%20BI%20Projects)
-- [Tableau ***(07/30)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Tableau)
-- [Tableau Online ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Tableau%20Online)
-- [Tableau Projects ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Business%20Analytics/Tableau%20Projects)
+- [Excel ***(10/10)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Business%20Analytics%20Assignments/Excel)
+- [SQL ***(10/10)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Business%20Analytics%20Assignments/SQL)
+- [Statistics ***(10/10)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Business%20Analytics%20Assignments/Statistics)
+- [PowerBI ***(20/20)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Business%20Analytics%20Assignments/Power%20BI)
+- [PowerBI Projects ***(03/10)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Business%20Analytics%20Assignments/Power%20BI%20Projects)
+- [Tableau ***(07/30)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Business%20Analytics%20Assignments/Tableau)
+- [Tableau Online ***(00/10)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Business%20Analytics%20Assignments/Tableau%20Online)
+- [Tableau Projects ***(00/10)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Business%20Analytics%20Assignments/Tableau%20Projects)
 
 ### 3. Machine Learning
-- [Machine Learning ***(18/24)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Assignment)
-- [Machine Learning Practical ***(00/10)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Practical%20Assignment)
+- [Machine Learning ***(24/24)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Assignment)
+- [Machine Learning Practical ***(00/10)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Machine%20Learning/Machine%20Learning%20Practical%20Assignment)
 
 ### 4. DL-CV-NLP
-- [Computer Vision Assignment ***(00/12)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/DL-CV-NLP/Computer%20Vision%20Assignment)
-- [DL And CV Practical Assignment ***(00/25)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/DL-CV-NLP/DL%20And%20CV%20Practical%20Assignment)
-- [Deep Learning Assignment ***(00/16)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/DL-CV-NLP/Deep%20Learning%20Assignment)
-- [NLP Assignment ***(07/07)***](https://github.com/amanovishnu/iNeuron-Assignments/tree/main/DL-CV-NLP/NLP%20Assignment)
+- [Computer Vision Assignment ***(00/12)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Computer%20Vision%20Assignment)
+- [DL And CV Practical Assignment ***(00/25)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/DL%20And%20CV%20Practical%20Assignment)
+- [Deep Learning Assignment ***(00/16)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/Deep%20Learning%20Assignment)
+- [NLP Assignment ***(07/07)***](https://github.com/Sahiljosan/iNeuron-Full-Stack-Data-Science-Assignments/tree/main/NLP%20Assignment)
